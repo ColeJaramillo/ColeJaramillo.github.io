@@ -4,7 +4,6 @@ title: "Cole Jaramillo"
 author_profile: true
 ---
 
-# Cole Jaramillo
 
 ![Me](/images/Cole.jpeg)
 
