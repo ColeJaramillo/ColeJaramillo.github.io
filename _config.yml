@@ -20,7 +20,7 @@ repository               : "ColeJaramillo/ColeJaramillo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 
 author:
-  avatar           : "Cole.jpeg"
+  avatar           : "/images/Cole.jpeg"
   name             : "Cole Jaramillo"
   bio              : "Computer Science student at the University of Houston."
   location         : "Houston, TX"
